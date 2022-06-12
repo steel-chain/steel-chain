@@ -1,4 +1,10 @@
-### Hi there 👋
+### 
+
+Hi there! ✨
+I'm beginner blockchain developer. 🌱
+I'm currently study solidity, python, web3.js at my leisure.
+
+
 
 <!--
 **steel-chain/steel-chain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
